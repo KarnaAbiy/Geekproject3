@@ -1,0 +1,133 @@
+
+/* GMAIL BLOCK */
+
+.gmail_block {
+    background: black;
+    padding: 100px 0;
+}
+
+.inner_gmail_block {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid orange;
+    height: 300px;
+    border-radius: 20px;
+    align-items: center;
+}
+
+.form_gmail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form_gmail button {
+    width: 100%;
+    margin: 20px 0;
+}
+
+/* MOVE BLOCK */
+
+.move_block {
+    background: black;
+    padding: 100px 0;
+}
+
+.parent_block {
+    height: 500px;
+    width: 500px;
+    border: 2px solid orange;
+    position: relative;
+    margin: 0 auto;
+}
+
+.child_block {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    background: orange;
+}
+
+.inner_move_block {
+    margin-top: 50px;
+}
+.checker{
+    color: orange;
+}
+.timesc{
+    background-color: black;
+}
+.numberZero{
+    color: orange;
+}
+.time_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+.boxmin{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 30px ;
+}
+.bt{
+    display: block;
+    width: 70px;
+    height: 30px;
+    background-color: orange;
+}
+
+.people-listhw{
+    padding-top: 20px;
+    background-color: black;
+}
+#people-list{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    border-width: 50px;
+    margin-top: 40px;
+}
+
+.currency{
+    background-color: black;
+}
+.cur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding: 10 0;
+}
+.cards{
+    background-color: black;
+    padding: 30 0;
+}
+.border{
+    width: 100hw;
+    height: 150px;
+    border: 2px solid orange;
+    margin-top: 35px;
+    display: block;
+}
+
+.btnc{
+    width: 60px;
+    height: 30px;
+    background-color: orange;
+    border: 2 px solid orange;
+}
+h3{
+    color: antiquewhite;
+    display: block;
+    justify-content: center;
+}
+.fetchConsole{
+    background-color: black;
+}

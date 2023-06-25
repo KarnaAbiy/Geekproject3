@@ -1,0 +1,25 @@
+[
+    {
+        "Name": "Abiy",
+        "Surname": "Karmyshev",
+        "Age": 19,
+        "Gender": "Male",
+        "Status": "Student"
+    },
+    
+    {
+        "Name": "Vitaliy",
+        "Surname": "Gromyako",
+        "Age": 32,
+        "Gender": "Male",
+        "Status": "Streamer"
+    },
+
+    {
+        "Name": "Kamina",
+        "Surname": "Dziha",
+        "Age": 17,
+        "Gender": "Male",
+        "Status": "Leader of Gurendan"
+    }
+]
